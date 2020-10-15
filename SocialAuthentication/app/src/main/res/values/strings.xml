@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Social Authentication</string>
+    <string name="facebook_app_id" translatable="false">Your App Id</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb Your App Id</string>
+    <string name="login_with_facebook">Sign in with Facebook</string>
+    <string name="login_with_google">Sign in with Google</string>
+</resources>
